@@ -7,7 +7,7 @@ This is an attempt to solve [OpenAI Lunar Lander-v2](https://gym.openai.com/envs
 # Implementation
 
 The search for hyperparameters values are challenging because of the large hyperparameters space need to be searched. As a result, we use the hyperparameters values from 
-[Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/) that is used to solve [Cartpole-v1](https://gym.openai.com/envs/CartPole-v1/) as starting point. The 
+[Deep Q-Learning with Keras and Gym](https://keon.github.io/deep-q-learning/) that is used to solve [Cartpole-v1](https://gym.openai.com/envs/CartPole-v1/) as starting point. The 
 [lunar_lander.py](https://github.com/shihgianlee/openai-lunar-lander/blob/master/lunar_lander.py) file has the training code for lunar lander model. For the longest time, the rewards were hovering between 0 and negative
 territories. The breakthrough came when we replace epsilon-greedy exploration strategy with [Boltzman exploration](https://www.cs.cmu.edu/afs/cs/academic/class/15381-s07/www/slides/050107reinforcementLearning1.pdf) strategy.
 
