@@ -17,7 +17,7 @@ territories. The breakthrough came when we replace epsilon-greedy exploration st
 
 # Credits
 
-Credits are given in the source and [References](#references).
+Credits are given in the [source](https://github.com/shihgianlee/openai-lunar-lander/blob/master/lunar_lander.py) and [References](#references).
 
 
 # References
