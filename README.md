@@ -22,14 +22,14 @@ Credits are given in the [source](https://github.com/shihgianlee/openai-lunar-la
 
 # References
 
-[1.] Deep Q-Learning with Keras and Gym. URL: https://keon.io/deep-q-learning/
+[1] Deep Q-Learning with Keras and Gym. URL: https://keon.io/deep-q-learning/
 
-[2.] Playing Atari with Deep Reinforcement Learning. URL: https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
+[2] Playing Atari with Deep Reinforcement Learning. URL: https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 
-[3.] Artificial Intelligence: Representation and Problem. URL: https://www.cs.cmu.edu/afs/cs/academic/class/15381-s07/www/slides/050107reinforcementLearning1.pdf
+[3] Artificial Intelligence: Representation and Problem. URL: https://www.cs.cmu.edu/afs/cs/academic/class/15381-s07/www/slides/050107reinforcementLearning1.pdf
 
-[4.] Human-level control through deep reinforcement learning. URL: https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf
+[4] Human-level control through deep reinforcement learning. URL: https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf
 
-[5.] Reinforcement Learning w/ Keras + OpenAI: DQNs. URL: https://towardsdatascience.com/reinforcement-learning-w-keras-openai-dqns-1eed3a5338c
+[5] Reinforcement Learning w/ Keras + OpenAI: DQNs. URL: https://towardsdatascience.com/reinforcement-learning-w-keras-openai-dqns-1eed3a5338c
 
-[6.] Keras RL. URL: https://github.com/keras-rl/keras-rl
+[6] Keras RL. URL: https://github.com/keras-rl/keras-rl
