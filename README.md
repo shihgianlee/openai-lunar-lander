@@ -17,7 +17,7 @@ territories. The breakthrough came when we replace epsilon-greedy exploration st
 
 # Credits
 
-Credits are given in the source and [References](##references).
+Credits are given in the source and [References](#references).
 
 
 # References
