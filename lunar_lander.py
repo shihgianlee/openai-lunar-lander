@@ -9,9 +9,6 @@ from keras.models import Sequential
 from keras.optimizers import Adam
 
 
-# https://keon.io/deep-q-learning/
-# https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
-# https://www.cs.cmu.edu/afs/cs/academic/class/15381-s07/www/slides/050107reinforcementLearning1.pdf
 class DQNAgent:
 
     def __init__(self, env):
