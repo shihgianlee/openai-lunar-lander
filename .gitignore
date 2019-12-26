@@ -1,0 +1,13 @@
+*.pydevproject
+*.pyc
+.project
+.metadata
+.idea
+*.mp4
+.DS_Store
+.idea
+*.iml
+.DS_Store
+target
+output
+tulip_panorama.jpg
